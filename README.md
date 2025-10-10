@@ -4,7 +4,7 @@ ___
 # Мои проекты
 
 ## <a href="https://github.com/SUPER-PAU/Splendid_Edition_2.py">Splendid Edition 2</a>
-<img src="SE2.gif" width="720" height="480">
+<img src="SE2.gif" width="580" height="326">
 
 2D файтинг на **pygame**, содержит более 20 персонажей, режим онлайна и историю.
 
@@ -12,7 +12,7 @@ ___
 ___
 
 ## Splendid Edition 3
-<img src="SE3.gif" width="720" height="480">
+<img src="SE3.gif" width="580" height="326">
 
 3D Top-down Action Roguelite игра на **Unity** с использованием **C#**
 
