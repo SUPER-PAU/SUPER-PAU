@@ -3,6 +3,27 @@
 ___
 # Мои проекты
 
+___
+
+## <a href="https://github.com/SUPER-PAU/GraphBot">GraphBot</a>
+<img src="GraphBot.gif" width="580" height="326">
+
+AI-сервис для автоматического подбора и построения графиков по загруженным Excel-файлам. Анализирует структуру данных с помощью LLM и рекомендует оптимальные типы визуализаций.
+Backend	**FastAPI, Uvicorn**
+Frontend **HTML, CSS**
+
+___
+
+## <a href="https://github.com/SUPER-PAU/IDEA_store">IDEA STORE</a>
+Веб-сайт, созданный на основе **Flask**, для мебельного магазина, который выглядит как IKEA.
+___
+##  Splendid Edition 4
+<img src="SE4.gif" width="580" height="326">
+
+3D Rouglike Co-op Shooter на **Unity** с использованием **C#**
+
+*в разработке*
+___
 ## <a href="https://github.com/SUPER-PAU/Splendid_Edition_2.py">Splendid Edition 2</a>
 <img src="SE2.gif" width="580" height="326">
 
@@ -18,6 +39,16 @@ ___
 
 **Платформы**: Windows, MacOS, Android
 
-В разработке.
+___
+
+## <a href="https://github.com/SUPER-PAU/VendingMachine-ConsoleApplication">Vending Machine</a>
+
+Консольное приложение на **C#**, которое эмулирует вендинговый автомат.
+
+## <a href="https://github.com/SUPER-PAU/FoodDeliveryInterface">Food Delivery Interface</a>
+
+Интерфейс для возможного приложения по доставке продуктов на **C#**.
 
 ___
+
+
